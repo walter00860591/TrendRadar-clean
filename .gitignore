@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+output/
+webhook-server/logs/
+webhook-server/*.log
+
+docker/.env
+
+.DS_Store
