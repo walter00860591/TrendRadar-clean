@@ -1,5 +1,7 @@
 name: Smoke Test
 
+# Minimal workflow used to verify Actions runner availability.
+
 on:
   workflow_dispatch:
 
